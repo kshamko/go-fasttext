@@ -13,7 +13,7 @@
 #include "matrix.cc"
 #include "model.cc"
 #include "productquantizer.cc"
-#include "qmatrix.cc"
+#include "quantmatrix.cc"
 #include "utils.cc"
 #include "vector.cc"
 
